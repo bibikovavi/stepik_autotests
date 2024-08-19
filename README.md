@@ -1,2 +1,2 @@
 # stepik_autotests
-need to add smth
+all the autotests that I've learned from Stepik course
